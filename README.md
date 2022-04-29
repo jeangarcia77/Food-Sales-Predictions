@@ -22,7 +22,7 @@ Data can include source and high-level description (e.g. # obs)
 
 
 #### Visual 1 Title
-![sample image](project1_sample_image.png)
+![Top5_Food_Items_Project1.PNG](project1_sample_image.png)
 
 > Sentence about visualization.
 
@@ -30,7 +30,9 @@ Data can include source and high-level description (e.g. # obs)
 
 ## Recommendations:
 
-More of your own text here
+**Model**
+
+Comparing the Linear Regression and the Regression Tree model, I have found the Regression Tree model to yield best results. Both models provied a good fit in terms of Variance and Bias, although the latter performed better. The Regression Tree model would be best and recommended.
 
 
 ## Limitations & Next Steps
