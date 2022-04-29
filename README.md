@@ -22,7 +22,7 @@ Data can include source and high-level description (e.g. # obs)
 
 
 #### Visual 1 Title
-![Image](Top5_Food_Items_Project1.PNG)
+![sample image](Top5_Food_Items_Project1.PNG)
 
 > Sentence about visualization.
 
