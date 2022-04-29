@@ -1,7 +1,7 @@
-# Title that recommends an action
-## Subtitle describing the analysis 
+# Predicting Food Sales
+## Prediction for food items sold at various stores 
 
-**Author**: 
+**Author**: Jeancarlo Garcia
 
 ### Business problem:
 
@@ -41,4 +41,4 @@ More of your own text here
 ### For further information
 
 
-For any additional questions, please contact **email**
+For any additional questions, please contact **jeangarcia77@gmail.com**
