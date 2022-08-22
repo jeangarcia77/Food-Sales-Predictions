@@ -50,8 +50,18 @@ Categorical & Numerical models
 
 Comparing the Linear Regression and the Regression Tree model, I have found the Regression Tree model to yield best results. Both models provied a good fit in terms of Variance and Bias, although the latter performed better. The Regression Tree model would be best and recommended.
 
+## PowerBI Dashboard
+
+
+![Food Sales PowerBI Dashboard](food_sales_dashboard.PNG)
+> Access PDF of Food Sales PowerBI Dashboard <a href="food_sales_dashboard.pdf" target="_blank">Click here</a>
+
+
+<br>
 
 ### For further information
 
 
 For any additional questions, please contact **jeangarcia77@gmail.com**
+
+For access to PowerBI interactive dashboard, please feel free to contact for review. Thank you!
