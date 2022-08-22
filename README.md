@@ -55,6 +55,8 @@ Comparing the Linear Regression and the Regression Tree model, I have found the 
 
 ![Food Sales PowerBI Dashboard](food_sales_dashboard.PNG)
 > Access PDF of Food Sales PowerBI Dashboard <a href="food_sales_dashboard.pdf" target="_blank">Click here</a>
+<br>
+
 > Access PowerBI file for download of Food Sales PowerBI Dashboard <a href="food_sales_dashboard.pbix" target="_blank">Click here</a>
 
 <br>
